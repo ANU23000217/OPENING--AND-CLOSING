@@ -26,7 +26,12 @@ Use Closing Operation
  
 ## Program:
 
-``` 
+```
+
+# Developed By: ANU RADHA N
+# Register No: 212223230018
+
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
